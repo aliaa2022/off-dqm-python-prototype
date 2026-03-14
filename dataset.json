@@ -1,0 +1,19 @@
+[
+  {
+    "set_id": "nutrition-user-as-sold-100g",
+    "per": "100g",
+    "nutrients": {
+      "fat": {"value": 120},
+      "carbohydrates": {"value": 40}
+    }
+  },
+  {
+    "set_id": "nutrition-user-as-sold-100g",
+    "per": "100g",
+    "nutrients": {
+      "fat": {"value": 10},
+      "saturated-fat": {"value": 12},
+      "carbohydrates": {"value": 40}
+    }
+  }
+]
